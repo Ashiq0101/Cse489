@@ -1,0 +1,66 @@
+============================================================
+                   AI USAGE DECLARATION
+============================================================
+
+Name: MD Ashikul Islam
+Student ID: 24241376
+Assignment: 1
+Date: 21 February 2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[*] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[*] Learning/understanding concepts
+[*] Debugging my code
+[*] Generating code snippets
+[ ] Writing text content
+[*] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used ChatGPT as a learning assistant to better understand
+Flutter concepts, widget structure, state management, and
+project organization. AI was used to clarify errors, debug
+issues, and understand how certain parts of the code work.
+
+Some small code snippets were generated for guidance, but
+all logic was reviewed, modified, and tested by me. I ensured
+that I fully understand the implementation and can explain
+each part of the project if required.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+File: main.dart              Section: App structure & routing
+File: pubspec.yaml           Section: Dependency configuration
+File: README.md              Section: Formatting & documentation
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: __MD Ashikul Islam__
+Date: 21 February 2026
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
